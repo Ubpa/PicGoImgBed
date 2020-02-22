@@ -1,0 +1,2 @@
+# PicGoImgBed
+PicGo image bed
